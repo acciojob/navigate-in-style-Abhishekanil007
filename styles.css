@@ -6,12 +6,12 @@ ul>li>a{
 
 ul>li{
 	list-style:none;
-	margin-right:16px;
+
 }
 
 .navbar-all{
 	display:flex;
-	justify-content:space-evenly;
+	
 }
 
 .container{
