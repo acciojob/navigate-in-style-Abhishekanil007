@@ -4,7 +4,8 @@ ul>li>a{
 }
 
 ul>li{
-	list-style:none;	
+	list-style:none;
+	margin-right:16px;
 }
 
 .navbar-all{
@@ -15,6 +16,6 @@ ul>li{
 .container{
 	background-color:#D3D3D3;
 	padding:10px;
-	margin-right:16px;
+	
 	
 }
