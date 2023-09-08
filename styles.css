@@ -9,12 +9,12 @@ ul>li{
 
 .navbar-all{
 	display:flex;
-	margin-right:16px;
 	justify-content:space-evenly;
 }
 
 .container{
 	background-color:#D3D3D3;
 	padding:10px;
+	margin-right:16px;
 	
 }
