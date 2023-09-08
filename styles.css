@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 ul>li>a{
 	text-decoration:none;
+	margin-right:16px;
 }
 
 ul>li{
